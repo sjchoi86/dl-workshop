@@ -1,7 +1,7 @@
-# dl-workshop
-Deep learning workshop @ SNU
+# Deep learning tutorials
+ Deep learning workshop @ SNU
 
-# Prerequisite
+# Prerequisites
 1. Ubuntu environment
 2. Python 2.7
 3. TensorFlow package ([pip install](https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#pip-installation))
