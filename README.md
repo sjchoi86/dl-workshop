@@ -1,6 +1,9 @@
 # Deep learning tutorials
  Deep learning workshop @ SNU
 
+# Python Code
+ All codes can be found in [here](https://github.com/sjchoi86/Tensorflow-101). 
+
 # Prerequisites
 1. Ubuntu environment
 2. Python 2.7
